@@ -1,6 +1,6 @@
 # Awesome Cyber Security Links
 
-A curated list of Cyber Security resources for Blue Team, Red Team, Threat Intelligence, CTFs, and more — inspired by [DXC-0/SOC-Ressources](https://github.com/DXC-0/SOC-Ressources).
+A curated list of Cyber Security resources for Blue Team, Red Team, Threat Intelligence, CTFs, and more — Maintained by [NetwerkLABS](https://netwerklabs.com).
 
 > 📚 This repository is built for professionals, researchers, and learners who want a central place to bookmark valuable links and references.
 
